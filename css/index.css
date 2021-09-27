@@ -28,7 +28,7 @@ body{
     padding: 5px 20px;
     margin-left: 20px;
     display: inline-block;
-    float: left;
+    /* float: left; */
 }
 .base h1{
     /* font-size: 26px; */
@@ -101,3 +101,4 @@ input[type=button]:hover{
     word-spacing: 2.7px;
     color: navy;
 }
+
